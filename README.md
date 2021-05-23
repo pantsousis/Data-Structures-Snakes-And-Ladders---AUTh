@@ -17,5 +17,6 @@ Clicking next turn, the players will roll the dice and move on the board.
 There is a maximum of 20 rounds in which one of the players must reach the top and win.
 If that doesn't happen, then the player with the highest score wins.
 Red apples increase score, Black decrease score and the furthest a player is on the board, the higher the score.
+In addition to the GUI, I recommend looking at the console to keep track of the changes in each round.
 
 Due to being one of the first projects I ever made at 19 years old, the documentation is missing, but you are free to explore the code.
